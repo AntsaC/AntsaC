@@ -1,6 +1,14 @@
-<h1 style="text-align: center;"> 👋 Hi, I’m Antsa Fiderana</h1>
-- I'm a full-stack developper passionate with modern and new technologies and really **like following best practices and design principles**
-- I'm specializing with **java(spring boot, spring data, quarkus,...)** as backend and **javascript framework (React, NextJS )** as frontend technologies
+<h1 align="center">👋 Hi, I'm Antsa Fiderana</h1>
+<h3 align="center">Passionate with modern technologies and really like following best practices and design principles</h3>
+
+- 💻 I'm specializing with **java (spring boot, spring data, quarkus,...)**  and **React, NextJS**
+
+- 🏫 I study at **ITUniversity**
+
+- 📧 Hot to reach me [antsafiderana333@gmail.com]
+
+<h5>Languages and tools</h5>
+
 
 
 <!---
