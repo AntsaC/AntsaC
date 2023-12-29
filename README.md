@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Antsa Fiderana</h1>
 <h3 align="center">Passionate with modern technologies and really like following best practices and design principles</h3>
 
-- 💻 I'm specializing with **Spring boot,Quarkus,Symfony**  and **React, NextJS**
+- 💻 I'm specializing with **Symfony, Laravel**  and **React, NextJS**
 
 - 🏫 I study at **ITUniversity**
 
